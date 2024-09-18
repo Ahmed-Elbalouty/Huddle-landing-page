@@ -1,2 +1,6 @@
-# Huddle-landing-page
-This repository for solving "Huddle landing page" challenge from Front-End Mentor challenges.
+# Frontend Mentor - Huddle landing page with alternating feature blocks
+
+![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
